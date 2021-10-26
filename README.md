@@ -1,5 +1,4 @@
-# pricing
-pricing.oneday.run
+# [pricing.oneday.run](https://pricing.oneday.run/#/)
 
 
 An MVP design should atleast be based on solving one of the 3 problems or a combination of them
@@ -30,8 +29,6 @@ Tylko statyczny wygląd w formacie PDF/PNG/...
 ### Prototyp
 Wyrenderowany w HTML
 
-
-
 ### PoC
 
 Działające
@@ -40,3 +37,13 @@ Działające
 ### MVP
 
 w pełni funkcjonalny, ale bardzo uproszczony działający model zarobkowy
+
+
+
+
+---
++ [edit](https://github.com/onedayrun/pricing/edit/main/README.md)
+
+```
+https://github.com/onedayrun/pricing.git
+```
