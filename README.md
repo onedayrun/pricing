@@ -32,13 +32,15 @@ Wyrenderowany w HTML
 
 ### PoC
 
-Działające
+Działająca aplikacja
 
 
 ### MVP
 
-w pełni funkcjonalny, ale bardzo uproszczony działający model zarobkowy
-
++ w pełni funkcjonalna aplikacja ale bardzo uproszczony działający model zarobkowy
++ monitoring
++ raporty ze sprzedaży
++ api płatności
 
 
 
