@@ -43,6 +43,11 @@ Działająca aplikacja
 + api płatności
 
 
+## more ...
+
++ [www.oneday.run](https://www.oneday.run/#/)
++ [roadmap.oneday.run](https://roadmap.oneday.run/#/)
+
 
 ---
 + [edit](https://github.com/onedayrun/pricing/edit/main/README.md)
