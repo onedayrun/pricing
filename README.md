@@ -18,9 +18,10 @@ This process works universally and leads to less pre-implementation exploration 
 https://www.bacancytechnology.com/blog/poc-vs-mvp-vs-prototype
 
 
+## Oferta
 
-
-PL:
+### Dokumentacja
+zebranie informacji i opisanie technciznie jak ma działać aplikacji
 
 ### Makieta
 Tylko statyczny wygląd w formacie PDF/PNG/...
