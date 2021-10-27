@@ -1,6 +1,34 @@
 # [pricing.oneday.run](https://pricing.oneday.run/#/)
 
 
+## Softreck
+
+Our company is specializing in a huge variety of solutions. 
+We offer to create Multi-vendor marketplace eCommerce software on top of the open-source solutions
+
+The multi-vendor platform we propose ensures your online store growth and being one step ahead of your competitors.
+Every line of our code follows standards, and high-quality code ensures scalability, so you are no longer limited through the technology.
+
+## Leadership through software development
+
+We have the same mission in mind – to help you achieve your goals.
+Planning, development, and communication customized for your business.
+
+
+### Fit the Best Solutions
+Technology suited to your current and future needs.
+
+
+### Engineer Your Success
+Rapdily development and short cycles with timely communication.
+
+
+### Launch & Grow
+Full support and maintenance.
+
+
+## MVP
+
 An MVP design should atleast be based on solving one of the 3 problems or a combination of them
 
 1. Are you trying to reduce the cycle time of operation or business solution delivery?
@@ -23,6 +51,17 @@ https://www.bacancytechnology.com/blog/poc-vs-mvp-vs-prototype
     Get the right product,
     created at the right time,
     and at the right price
+
+To start the project in the right way, the most important part is collecting all the requirements to transform them into an initial estimation of the marketplace platform. To achieve that in the best possible way, we have a special service – Vision-To-Plan Workshops.
+
+Every project is different, so we approach each workshop differently. Perhaps you already have one of the marketplace platforms (CS-Cart, WordPress website with WordPress plugin, or any other), we may help you with analyzing the source code, show online demo or you want to show us one of the online stores you like.
+
+As a result of the workshop, you will get a complete architecture of your Multi-Vendor Marketplace (including marketplace software). So, the first two (and the most important) steps from the graphic are covered by the workshop. The rest of the processes is the implementation of the established requirements.
+
+    You may save up to €10 in needless development costs on every €1 spent on planning during workshops. One-time payment = Long-term investment.
+
+
+
 
 
 ## Vision-To-Plan
@@ -154,8 +193,6 @@ Działająca aplikacja
 
 ### Monitoring
 
-Find accurate data in PIM solution:
-
 + Information about company resource planning – control and management of the most important electronic data and internal processes in almost every business area of the company: sales channels, marketing, finance, accounting, warehouse and other businesses’ parts.
 
 + Information about product –  thanks to the B2B eCommerce PIM solution, you will have the exact product content in one catalog (size, color, weight, material, product description, photos, etc.). Cover all marketing efforts from one PIM system, improve quality information and search in the catalog on the website and sell more to your customers/consumers
@@ -181,6 +218,8 @@ Manage information on all sales channels, in one location with a single source o
 ### Data classification
 Create specific products experience and associate them together with product information management (PIM). Analyze your products easily and propose cross-selling or up-selling to increase customer interactions (and, of course, sales). With product catalog management it's easier than ever.
 
+
++ [mvps](https://www.mvps.dev)
 ## more ...
 
 + [www.oneday.run](https://www.oneday.run/#/)
