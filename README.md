@@ -37,6 +37,11 @@ The best way to get to know each other is real-time meeting. On our part, you ca
 ### 1 Meeting, Workshop, 30 Minutes
 To achieve great things, you need a plan. 
 We will prepare a workshop schedule for you based on your business goals, requirements, and expectations regarding technology.
+Although each workshop is a different adventure and need, we have created business workshop processes that allow us to gather information well.
+
++ A well-prepared development plan will allow you to avoid unplanned costs. The more precisely the better for your e-business!
++ Workshops are needed so that we can get to know each other’s expectations. Both you and we can determine whether we will decide to cooperate or not.
++ If you want to know more about the workshops, please go to Vision-To-Plan eCommerce Workshops.
 
 It's the right moment to precisely discuss your vision. We will do that step by step and together we will choose the MVP scope.
 
@@ -44,6 +49,8 @@ It's the right moment to precisely discuss your vision. We will do that step by 
 + zebranie wymagań
 + omówienie modelu biznesowego
 
+
+ 
 
 ### Internal meeting
 We will discuss what we have found out from you, and the team of interdisciplinary experts prepare an hourly estimation of your project.
@@ -97,6 +104,34 @@ The best way to achieve the first two steps is to take part in the eCommerce wor
 By participating in the workshop, you will get to know that for every €1 spent on planning, you can save up to €10 in additional development costs.
 After getting to know each other’s expectations, we may decide if we are a good fit for each other. If so, our cooperation will start!
 
+### Pricing model
+
+Depending on the type of project, both options may be beneficial. It is important to choose the right model for the nature of the project.
+We can implement the project in the form of Fixed Price or Time and Material. We talk about how we implement the project from the very beginning of the talks. However, it should be remembered that the eCommerce website is a product that is constantly evolving and it is never a closed product. It is not a thing that will be created once and will always be the same. Requirements can be changed, updated, or expanded at any time.
+
+
+
+### Project team structure
+
+Our pillar of success is the team, engaged and ready to create a project:
+
++ Project Manager – “The Connector” between business and technology – he makes sure that everything is done correctly and keeps track of the time
++ Developers – “The Creator” – he turns visions into products
++ Quality Assurance – “The Bug Detective” – he verifies the system
++ (Optional) Designer – “The Artist” – thanks to him your eCommerce will have a beautiful UI and good UX
+    
+    
+### Communication
+
+We prefer to communicate via Slack/discord
+We will create a special channel so that we can communicate and exchange information as quickly as possible. 
+Sometimes it happens that we communicate with the client via other channels, such as e-mail or Google Hangouts.
+
++ Daily calls – during this internal meeting, we plan our work every day. We look for solutions and discuss – all in order to deliver a solution as soon as possible
+
++ Weekly calls – a meeting in which the client is participating.  This is the time to discuss current progress, establish priorities, and plan further development in the near future.
+
+
 
 ## Makieta
 Tylko statyczny wygląd w formacie PDF/PNG/...
@@ -117,6 +152,34 @@ Działająca aplikacja
 + raporty ze sprzedaży
 + api płatności
 
+### Monitoring
+
+Find accurate data in PIM solution:
+
++ Information about company resource planning – control and management of the most important electronic data and internal processes in almost every business area of the company: sales channels, marketing, finance, accounting, warehouse and other businesses’ parts.
+
++ Information about product –  thanks to the B2B eCommerce PIM solution, you will have the exact product content in one catalog (size, color, weight, material, product description, photos, etc.). Cover all marketing efforts from one PIM system, improve quality information and search in the catalog on the website and sell more to your customers/consumers
+
++ Information about suppliers –  Get a complete view of the supply chain, receive numerous goods from suppliers, handle multiple partners (and businesses), take care of your customers/consumers
++ Information about media files – B2B eCommerce PIM systems’ main benefits are: large product catalog (with catalog management, master catalog), rich product information and also support in sales
+
+If you are an online retailer who wants to sell directly to your target audience and new customers on different channels and digital touchpoints, and at the same time have lots of product data, Product Information Management (PIM) is a good choice for you. 
+Increase your businesses sales right now with PIM!
+
+### Multiple channels
+Multi-channeling like eCommerce, mobile applications, social networks, marketplaces could be challenging for eCommerce platforms. PIM solutions will help you and allow you to manage them from one source of truth. Influence the engagement of customers and increase sales with PIM.
+
+### Data classification
+Create specific products experience and associate them together with product information management (PIM). Analyze your products easily and propose cross-selling or up-selling to increase customer interactions (and, of course, sales). With product catalog management it's easier than ever.
+
+### Localization of content
+Linguistic localization is the process of adapting the translation of a text to the needs of a given country or region. Thanks to this, you will be able to adapt a given product to the local market's needs and improve your (brand) position in the target market.
+
+### Managing information
+Manage information on all sales channels, in one location with a single source of data (instead of many other systems). Export product data from print catalogs to electronic product data. Product information management processes with master catalog management, print catalog management increase the importance of product experience.
+
+### Data classification
+Create specific products experience and associate them together with product information management (PIM). Analyze your products easily and propose cross-selling or up-selling to increase customer interactions (and, of course, sales). With product catalog management it's easier than ever.
 
 ## more ...
 
